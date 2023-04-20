@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/salemmed"><img src="https://api.daily.dev/devcards/0b7e74e13db54f359e55dca6d61173da.png?r=kik" width="400" alt="Mohammed SALEM's Dev Card"/></a>
+
 <!--
 **salem-med/salem-med** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
